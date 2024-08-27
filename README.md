@@ -1,2 +1,2 @@
 # Java-Ejercicios
-Mis }ejercicios de Java y Python para practicar
+Mis ejercicios de Java y Python para practicar
